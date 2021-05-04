@@ -15,3 +15,14 @@
     background-color: #fe9241;
     color: #ffffff;
 }
+
+.button-wrapper:hover {
+    cursor: pointer;
+    background-color: #aaaaaa;
+    color:#e2e2e2;
+}
+
+.operator:hover {
+    background-color: #df690e;
+    color: #ffffff;
+}
