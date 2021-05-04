@@ -1,29 +1,34 @@
 <h1 align="center">Calculadora</h1>
 
-## Descrição do Projeto
-<p align="center">Calculadora simples usando react.js</p>
+# Índice
 
-Tabela de conteúdos
-=================
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#baixar">Como baixar o projeto</a> • 
- <a href="#autor">Autor</a>
-</p>
+- [Descrição](#-descrição-do-projeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Instalação](#-como-baixar-o-projeto)
+
 ---
-## Objetivo
-<p align="center">O objetivo desse projeto foi desenvolver  minhas habilidades em JavaScript usando a biblioteca React</p>
+
+## 🖋 Descrição do projeto
+
+O objetivo desse projeto foi desenvolver minhas habilidades em JavaScript usando a biblioteca React criando uma calculadora simples.
+
 ---
-## Tecnologias
-<p align="center">React.js, HTML, CSS</p>
+
+## 🚀 Tecnologias utilizadas
+
+o projeto foi desenvolvido usando as seguintes tecnologias:
+
+- React.js
+- HTML
+- CSS
+
 ---
-# Baixar
-<p align="center">Para baixar o projeto:</p>
-# Clonar o repositório
-https://github.com/LilianNicolau/Calculadora.git
-#build
-deserted-popcorn.surge.sh
+
+## 💾 Como baixar o projeto
+
+- Clonar repositório: https://github.com/LilianNicolau/Calculadora.git
+---
+- Link do surge: deserted-popcorn.surge.sh
 
 
 
